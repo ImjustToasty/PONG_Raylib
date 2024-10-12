@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\Danda\Desktop\c++Raylib\game1005-raylib\src\main.cpp(85,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Danda\Desktop\c++Raylib\game1005-raylib\src\main.cpp(85,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Danda\Desktop\c++Raylib\game1005-raylib\src\main.cpp(86,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Danda\Desktop\c++Raylib\game1005-raylib\src\main.cpp(86,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Danda\Desktop\c++Raylib\game1005-raylib\src\main.cpp(93,104): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Danda\Desktop\c++Raylib\game1005-raylib\src\main.cpp(93,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Danda\Desktop\c++Raylib\game1005-raylib\src\main.cpp(114,30): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Danda\Desktop\c++Raylib\game1005-raylib\src\main.cpp(114,16): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+  raylib5-vs2022.vcxproj -> C:\Users\Danda\Desktop\c++Raylib\game1005-raylib\x64\Debug\raylib5-vs2022.exe
